@@ -5,6 +5,18 @@
 }
 
 #img {
-    height: 800px;
-    width: 800px;
+    height: 400px;
+    width: auto;
+}
+h5 {
+    color: blue;
+    opacity: 0.7;
+
+}
+p {
+    color: lightblue;
+
+}
+li {
+    color: grey;
 }
